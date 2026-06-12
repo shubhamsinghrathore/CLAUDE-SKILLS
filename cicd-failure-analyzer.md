@@ -11,7 +11,7 @@ description: >
   Every recommendation ships with a quantified confidence score and risk
   assessment.
 reasoning_effort: extra-high
-compatibility: any CI/CD system with accessible logs; optional tools: kubectl, docker, npm/pip audit, trivy
+compatibility: "any CI/CD system with accessible logs; optional tools: kubectl, docker, npm/pip audit, trivy"
 ---
 
 # Autonomous CI/CD Failure Analyzer
